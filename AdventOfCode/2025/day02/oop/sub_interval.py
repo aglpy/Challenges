@@ -1,5 +1,4 @@
 """ Sub Interval class """
-from math import ceil
 
 class SubInterval:
     """ Object representing an interval of same digits with a sub division """
